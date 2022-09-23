@@ -1,3 +1,12 @@
+TLDR
+-clone repo
+-in terminal, "npm i"
+-in terminal, "npm start"
+-Enter a year and player name
+-Enjoy!
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
